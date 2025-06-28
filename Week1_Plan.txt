@@ -1,0 +1,189 @@
+
+# 📘 Java Full Stack Developer Roadmap – Week 1 Plan
+
+**Focus:** Core Java + Git + DSA Practice (3/day)
+
+---
+
+## ✅ **Day 1 (Monday) – Java OOP + Git Setup**
+
+**Java (1.5 hrs):**
+
+* What is OOP?
+* Class and Object in Java
+* Constructor, `this` keyword
+* Practice: Create a `Student` class with constructor & method
+
+**Git (1 hr):**
+
+* Install Git
+* Create GitHub account
+* Configure Git:
+
+  ```
+  git config --global user.name "Your Name"
+  git config --global user.email "you@example.com"
+  ```
+
+**DSA (1 hr):**
+
+* Solve 2 easy array problems
+
+  * Even/Odd in array
+  * Max element in array
+
+**Hands-on:**
+
+* Create folder `java-fullstack-journey/Day1-OOP`
+* Push code to GitHub
+
+---
+
+## ✅ **Day 2 (Tuesday) – Inheritance & Polymorphism + Arrays**
+
+**Java (1.5 hrs):**
+
+* Inheritance (single & multilevel)
+* Method Overriding, `super` keyword
+* Dynamic Method Dispatch
+* Practice: `Person` → `Employee` hierarchy with overridden method
+
+**DSA (1.5 hrs):**
+
+* 3 Array problems:
+
+  * Reverse array
+  * Max/min element
+  * Kth smallest element
+
+**Git (30 mins):**
+
+* Push code to GitHub with commit message:
+
+  ```
+  git commit -m "Day 2 - Inheritance & Polymorphism"
+  ```
+
+---
+
+## ✅ **Day 3 (Wednesday) – Encapsulation & Abstraction + Strings**
+
+**Java (1.5 hrs):**
+
+* Encapsulation with getters/setters
+* Abstraction using abstract classes
+* `final` keyword
+* Practice:
+
+  * `BankAccount` (encapsulation)
+  * `Shape` (abstract class)
+
+**DSA (1.5 hrs):**
+
+* 3 String problems:
+
+  * Palindrome check
+  * Reverse string
+  * Count vowels/consonants
+
+**Git (30 mins):**
+
+* Push to GitHub: `EncapsulationAbstraction.java`
+
+---
+
+## ✅ **Day 4 (Thursday) – Collections: List & Set + String DSA**
+
+**Java (1.5 hrs):**
+
+* `ArrayList`, `LinkedList`
+* `HashSet`, `TreeSet`
+* Practice:
+
+  * Add & print names using `List` and `Set`
+
+**DSA (1.5 hrs):**
+
+* 3 String problems:
+
+  * Remove duplicates
+  * Anagram check
+  * Most frequent character
+
+**Git (30 mins):**
+
+* Push code: `ListSetDemo.java`
+
+---
+
+## ✅ **Day 5 (Friday) – Map, Queue + HashMap DSA**
+
+**Java (1.5 hrs):**
+
+* `HashMap`, `TreeMap`
+* `Queue` using `LinkedList`
+* Practice:
+
+  * Word frequency counter
+  * Customer queue simulation
+
+**DSA (1.5 hrs):**
+
+* 3 HashMap problems:
+
+  * Count element frequency
+  * First non-repeating character
+  * Two sum using HashMap
+
+**Git (30 mins):**
+
+* Push file: `MapQueueDemo.java`
+
+---
+
+## ✅ **Day 6 (Saturday) – Git Deep Dive + Review + Mixed DSA**
+
+**Git (1 hr):**
+
+* Learn Git branching, merging, basic rebase
+* Try creating a new branch and merge it back
+
+**Java Review (1 hr):**
+
+* Review concepts from the week:
+
+  * OOP, Inheritance, Collections, Abstraction
+
+**DSA (1.5 hrs):**
+
+* 3 Mixed Problems (1 Easy, 1 Medium, 1 Array/Map based)
+
+**Wrap-up (30 mins):**
+
+* Clean repo
+* Document progress in tracker
+
+---
+
+## ✅ **Day 7 (Sunday – Optional)**
+
+**Optional Activities:**
+
+* Re-solve 2–3 tricky DSA problems
+* Polish GitHub README
+* Backup all code (ZIP or clone)
+* Reflect on learning + plan Week 2
+
+---
+
+## 🎯 Week 1 Outcomes
+
+* [ ] Learned Core OOP + Collections
+* [ ] Setup & used GitHub
+* [ ] Solved 18+ DSA problems
+* [ ] Organized code folder
+* [ ] Maintained consistency 🚀
+
+---
+
+Would you like me to generate a similar **Week 2 plan** on Sunday based on your progress?
