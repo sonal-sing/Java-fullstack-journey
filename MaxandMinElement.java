@@ -15,7 +15,11 @@ public class MaxandMinElement {
           if(e > max)
               max = e;
         }
+
+        System.out.println(max+" Maximum");
+
         System.out.println(max+"Maximum");
+
     }
 
     static void findMinElement(int[] arr){
@@ -24,7 +28,11 @@ public class MaxandMinElement {
             if(e < min)
                 min = e;
         }
+
+        System.out.println(min+" Minimum");
+
         System.out.println(min+"Minimum");
+
     }
 
 }
